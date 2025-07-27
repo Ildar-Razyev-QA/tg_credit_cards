@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/bot_menu.png)
+![image](https://raw.githubusercontent.com/Ildar-Razyev-QA/tg_credit_cards/refs/heads/main/static/bot_menu.png)
 
 После выбора карты Visa:
 
-![image](https://raw.githubusercontent.com/German-D/tg_credit_cards/main/static/visa_card.png)
+![image](https://github.com/Ildar-Razyev-QA/tg_credit_cards/blob/main/static/visa_card.png?raw=true)
 
 
 ## 💻 Технологии
@@ -61,4 +61,4 @@ python3 card_bot.py
 
 ## Автор
 
-Герман Дольников ([@dolnikov](https://t.me/dolnikov))
+Ильдар Разыев ([@razyev_r](https://t.me/razyev_r))
